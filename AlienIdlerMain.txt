@@ -16,3 +16,4 @@ Buttons
 		name:Shoot Pistol
 		desc:Click to shoot your Pistol at an Alien
 		on click:yield 1 regularCorpse
+		show clicks
