@@ -15,4 +15,4 @@ Buttons
 	*shootPistol
 		name:Shoot Pistol
 		desc:Click to shoot your Pistol at an Alien
-		on click: yield 1 regularCorpse
+		on click:yield 1 regularCorpse
