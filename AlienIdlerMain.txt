@@ -11,7 +11,8 @@ Resources
 	name:Corpse
 	desc:A dead alien.
 
-*shootPistol
-	name:Shoot Pistol
-	desc:Click to shoot your Pistol at an Alien
-	on click: yield 1 regularCorpse
+Buttons
+	*shootPistol
+		name:Shoot Pistol
+		desc:Click to shoot your Pistol at an Alien
+		on click: yield 1 regularCorpse
