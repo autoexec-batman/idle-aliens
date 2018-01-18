@@ -6,7 +6,7 @@ Let's make a game!
 	updated:01JAN2018
 	version:0.0.1
 	
-Layout //basically the default layout at this point, but with a small change
+Layout //basically the default layout at this point, but with a few small changes
 	*main
 		contains:res, buttons
 	*res
@@ -22,7 +22,7 @@ Layout //basically the default layout at this point, but with a small change
 		tooltip origin:left
 	*upgrades
 		contains:Upgrades
-		header:Upgrades
+		header:Armory
 		costs:hide
 		names:hide
 
