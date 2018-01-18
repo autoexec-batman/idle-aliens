@@ -6,6 +6,11 @@ Let's make a game!
 	updated:01JAN2018
 	version:0.0.1
 	
+Layout
+	use default
+	*buildings
+	header:Soldiers
+
 Resources
 	*regularCorpse|regularCorpses
 	name:Corpse
