@@ -6,10 +6,25 @@ Let's make a game!
 	updated:01JAN2018
 	version:0.0.1
 	
-Layout
-	use default
+Layout //basically the default layout at this point, but with a small change
+	*main
+		contains:res, buttons
+	*res
+		contains:Resources
+		class:fullWidth
+	*buttons
+		contains:Buttons
+	*store
+		contains:buildings, upgrades
 	*buildings
-	header:Soldiers
+		contains:BulkDisplay, Buildings
+		header:Soldiers
+		tooltip origin:left
+	*upgrades
+		contains:Upgrades
+		header:Upgrades
+		costs:hide
+		names:hide
 
 Resources
 	*regularCorpse|regularCorpses
