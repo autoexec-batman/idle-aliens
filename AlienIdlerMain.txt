@@ -1,10 +1,10 @@
 Let's make a game!
-	name: Alien Idler
-	author: Captain Foo
-	desc: Kill aliens and get more stuff to kill more aliens
-	created: 01JAN2018
-	updated: 01JAN2018
-	version: 0.0.1
+	name:Alien Idler
+	author:Captain Foo
+	desc:Kill aliens and get more stuff to kill more aliens
+	created:01JAN2018
+	updated:01JAN2018
+	version:0.0.1
 	
 Resources
 	*regularCorpse|regularCorpses
