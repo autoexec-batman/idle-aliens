@@ -1,6 +1,6 @@
 Let's make a game!
 	name:Alien Idler
-	author:Captain Foo
+	author:autoexec.batman
 	desc:Kill aliens and get more stuff to kill more aliens
 	created:01JAN2018
 	updated:01JAN2018
