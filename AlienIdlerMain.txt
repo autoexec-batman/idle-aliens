@@ -46,5 +46,5 @@ Upgrades
 	*dataRelay
 		name:Data Relay
 		desc: generates 1 basicdata per second
-		passive: yield 1 basicData
+		passive:yield 1 basicData
 		req: 10 regularCorpses
